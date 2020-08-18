@@ -7,12 +7,12 @@
 ### My skills include
 <p align="left">
 	<img title="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" />
-	<img title="Golang" src="https://en.wikipedia.org/wiki/Go_(programming_language)#/media/File:Go_Logo_Blue.svg" width="40" height="40" />
-	<img title="Django" src="https://en.wikipedia.org/wiki/Django_(web_framework)#/media/File:Django_logo.svg" width="60" height="40" />
+	<img title="Golang" src="https://en.wikipedia.org/wiki/Go_(programming_language)#/media/File:Go_Logo_Blue.svg" width="80" height="80" />
+	<img title="Django" src="https://en.wikipedia.org/wiki/Django_(web_framework)#/media/File:Django_logo.svg" width="80" height="80" />
     <img title="R Programming Language" src="https://en.wikipedia.org/wiki/R_(programming_language)#/media/File:R_logo.svg" width="40" height="40" />
 	<img title="ArangoDB" src="https://www.arangodb.com/wp-content/uploads/2013/03/ArangoDB-logo.png" width="120" height="40" />
     <img title="MySQL" src="https://en.wikipedia.org/wiki/MySQL#/media/File:MySQL_Logo.png" width="40" height="40" />
-    <img title="Docker" src="https://en.wikipedia.org/wiki/Docker_(software)#/media/File:Docker_(container_engine)_logo.svg" width="120" height="40" />
+    <img title="Docker" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="120" height="40" />
 	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 </p>
    

@@ -1,6 +1,6 @@
 ## Hi there, I'm Adwin 👋
 
-### The man who loves Golang and R by accident.
+### The man who love Golang and R by accident.
 
 - 🔭 I’m currently working at Diacon Medica Techologies as Backend Developer!
 - 📖 Still learning and forever learning about Python, R, and Golang

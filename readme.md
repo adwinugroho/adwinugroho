@@ -1,26 +1,24 @@
-## Hi there, I'm Adwin 👋
+## Hello world, I'm Adwin. 👋
 
-### The man who love Golang and R by accident.
-
-- 🔭 I’m currently working at Diacon Medica Techologies as Backend Developer!
-- 📖 Still learning and forever learning. Always intersting about data science, IoT, web development especially tech in healthcare
-- 🚀 Fun fact: Take care of your body. It’s the only place you have to live.
+- 🔭 I am currently working at Diacon Medica Techologies as a Backend Developer.
+- 📖 Always interested about data science, IoT, web development, and technology in the health care.
+- 🚀 Fun fact: only in javascript 1+"1" = "11".
 
 ### My skills include
-
 <p align="left">
-	<img title="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
-	<img title="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
-	<img title="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
-	<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-	<img title="Bamboo" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40" />
-	<img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
-	<img title="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
+	<img title="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" />
+	<img title="Golang" src="https://en.wikipedia.org/wiki/Go_(programming_language)#/media/File:Go_Logo_Blue.svg" width="40" height="40" />
+	<img title="Django" src="https://en.wikipedia.org/wiki/Django_(web_framework)#/media/File:Django_logo.svg" width="60" height="40" />
+    <img title="R Programming Language" src="https://en.wikipedia.org/wiki/R_(programming_language)#/media/File:R_logo.svg" width="40" height="40" />
+	<img title="ArangoDB" src="https://www.arangodb.com/wp-content/uploads/2013/03/ArangoDB-logo.png" width="120" height="40" />
+    <img title="MySQL" src="https://en.wikipedia.org/wiki/MySQL#/media/File:MySQL_Logo.png" width="40" height="40" />
+    <img title="Docker" src="https://en.wikipedia.org/wiki/Docker_(software)#/media/File:Docker_(container_engine)_logo.svg" width="120" height="40" />
 	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 </p>
    
 <br>
-### Connect with me:
+
+## Connect with me:
 <p align="center">
     <a href="https://www.linkedin.com/in/adwin-nugroho-siswoyo/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
     <a href="mailto:adwinnugroho16@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>

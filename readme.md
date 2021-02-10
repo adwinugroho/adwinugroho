@@ -5,7 +5,10 @@
 - 🚀 Currently still learning and curious about GoLang, Python, and R
 
 ## Connect with me:
-mailto:adwinnugroho16@gmail.com
-Twitter: https://twitter.com/adwinugroho
-Facebook: https://facebook.com/adwinugroho94
-LinkedIn: https://www.linkedin.com/in/adwin-nugroho-siswoyo/
+- mailto:adwinnugroho16@gmail.com 
+- Twitter: https://twitter.com/adwinugroho
+- Facebook: https://facebook.com/adwinugroho94
+- LinkedIn: https://www.linkedin.com/in/adwin-nugroho-siswoyo/
+
+
+

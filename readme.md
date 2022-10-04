@@ -5,7 +5,7 @@
 - 🚀 Currently still learning and curious about GoLang, NodeJS, Python, and R
 
 ## Connect with me:
-- mailto:adwinnugroho@mail.com
+- mailto:adwinnsiswoyo@gmail.com
 - Twitter: https://twitter.com/adwinugroho
 - Facebook: https://facebook.com/adwinugroho94
 - LinkedIn: https://www.linkedin.com/in/adwin-nugroho-siswoyo/

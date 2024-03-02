@@ -1,6 +1,6 @@
 ## Hello world, I'm Adwin N. Siswoyo 👋
 
-- 🔭 I am currently working at Diacon Technologies as a Backend Developer.
+- 🔭 I am currently working at @Jubelio as a Backend Engineer Golang.
 - 📖 Always interested in data science, web development, and technology in health care.
 - 🚀 Currently still learning and curious about GoLang, NodeJS, Python, and R.
 
